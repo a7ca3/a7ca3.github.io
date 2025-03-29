@@ -171,3 +171,7 @@ markup:
 
 ignoreFiles: # 忽略解析的文件
   - "/content/Template.md"
+
+caches: # 修改图片缓存位置
+  images:
+    dir: :cacheDir/images
