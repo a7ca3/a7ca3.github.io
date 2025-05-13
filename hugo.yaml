@@ -132,6 +132,11 @@ params:
       url: "mailto:a7ca39@gmail.com"
     - name: hackthebox
       url: "https://app.hackthebox.com/users/2153180"
+    - name: RSS
+      url: "https://a7ca3.github.io/index.xml"
+
+  # 在RSS中显示全文
+  ShowFullTextinRSS: True
 
   # giscus设置
   giscus:
