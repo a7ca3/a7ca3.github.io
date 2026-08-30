@@ -141,15 +141,16 @@ params:
   # giscus设置
   giscus:
     repo: "a7ca3/a7ca3.github.io"
-    repo-id: "R_kgDOOLlr0g"
+    repoId: "R_kgDOOLlr0g"
     category: "Announcements"
-    category-id: "DIC_kwDOOLlr0s4CoQhu"
+    categoryId: "DIC_kwDOOLlr0s4CoQhu"
     mapping: "pathname"
     strict: "0"
-    reactions-enabled: "1"
-    emit-metadata: "0"
-    input-position: "bottom"
-    theme: "preferred_color_scheme"
+    reactionsEnabled: "1"
+    emitMetadata: "0"
+    inputPosition: "bottom"
+    lightTheme: "light"
+    darkTheme: "dark"
     lang: "zh-CN"
     crossorigin: "anonymous"
 
